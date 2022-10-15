@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1594a46b.css",
+    "main.js": "/static/js/main.db2b1ebd.js",
+    "static/media/firstbanner.png": "/static/media/firstbanner.c1505c9449fba151cea2.png",
+    "static/media/banner2.png": "/static/media/banner2.7d31cff0290096661787.png",
+    "static/media/banner4.png": "/static/media/banner4.5883bd14ed68e9a7561d.png",
+    "static/media/banner4ref.png": "/static/media/banner4ref.948fd919aeff488c64c2.png",
+    "static/media/Trajan.ttf": "/static/media/Trajan.45cb6689c0b3aa21bd31.ttf",
+    "index.html": "/index.html",
+    "main.1594a46b.css.map": "/static/css/main.1594a46b.css.map",
+    "main.db2b1ebd.js.map": "/static/js/main.db2b1ebd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1594a46b.css",
+    "static/js/main.db2b1ebd.js"
+  ]
+}
