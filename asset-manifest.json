@@ -1,18 +1,32 @@
 {
   "files": {
+<<<<<<< Updated upstream
     "main.css": "/static/css/main.1594a46b.css",
     "main.js": "/static/js/main.22a78c7a.js",
+=======
+    "main.css": "/static/css/main.b397e525.css",
+    "main.js": "/static/js/main.d19f0e90.js",
+>>>>>>> Stashed changes
     "static/media/firstbanner.png": "/static/media/firstbanner.c1505c9449fba151cea2.png",
     "static/media/banner2.png": "/static/media/banner2.7d31cff0290096661787.png",
     "static/media/banner4.png": "/static/media/banner4.5883bd14ed68e9a7561d.png",
     "static/media/banner4ref.png": "/static/media/banner4ref.948fd919aeff488c64c2.png",
     "static/media/Trajan.ttf": "/static/media/Trajan.45cb6689c0b3aa21bd31.ttf",
     "index.html": "/index.html",
+<<<<<<< Updated upstream
     "main.1594a46b.css.map": "/static/css/main.1594a46b.css.map",
     "main.22a78c7a.js.map": "/static/js/main.22a78c7a.js.map"
   },
   "entrypoints": [
     "static/css/main.1594a46b.css",
     "static/js/main.22a78c7a.js"
+=======
+    "main.b397e525.css.map": "/static/css/main.b397e525.css.map",
+    "main.d19f0e90.js.map": "/static/js/main.d19f0e90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b397e525.css",
+    "static/js/main.d19f0e90.js"
+>>>>>>> Stashed changes
   ]
 }
